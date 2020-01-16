@@ -52,7 +52,7 @@ NOTE: This is main rtl stylesheet of template, This file contains the styling fo
 /*.title-effect::before{  transform-origin: 50% 50%; }
 section:hover .title-effect::before, section:focus .title-effect::before { transform: scale3d(-1,-1,-1); }*/
 
-/*index-01 */
+/*index */
 .happy-clients .tab-content .quoter-icon { right: 0; left: inherit; }
 .happy-clients .tab-content p { padding-right: 30px; text-align: right; }
 .testimonial-avatar { text-align: right; }
